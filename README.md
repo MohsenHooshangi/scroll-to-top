@@ -30,24 +30,6 @@ A lightweight custom WordPress plugin that adds a floating **"Scroll to Top"** b
 
 ---
 
-## 📂 Project Structure
-
-scroll-to-top/
-│
-├── core.php # Main plugin loader file
-│
-├── /assets/
-│ ├── css/
-│ │ └── style.css # Button styling (position, color, animations)
-│ └── js/
-│ └── main.js # Scroll detection & smooth scroll logic
-│
-└── /view/
-└── scroll-to-top.php # HTML markup for the button
-
-
----
-
 ## 🗂️ Installation
 
 1. Download the `scroll-to-top` folder.
